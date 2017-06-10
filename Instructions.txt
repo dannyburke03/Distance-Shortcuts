@@ -1,0 +1,10 @@
+These three scripts were made to make speedrunning in Distance more efficient.
+Simply run the script via AutoHotKey, and change you'll be able to perform the following tasks with ease:
+
+Shift+V ~ Restarts the level (You no longer have to scroll and confirm that you want to perform the task at hand anymore!)
+Shift+X ~ Return to Main Menu
+Shift+Z ~ Go to Next Level
+
+Keep in mind, this is a work-in-progress project. More hotkeys will likely be added in the near future.
+
+Feel free to edit the scripts to your liking (e.g. change the shortcut you want to use).
